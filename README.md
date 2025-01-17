@@ -1,11 +1,14 @@
-E-Commerce-Public-Dataset
+# E-Commerce-Public-Dataset
 
-Setup Environment - 
+Link dataset yang digunakan : (https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing)
 
-1. pipenv install
-2. pipenv run
-3. pipenv shell
-
-Run Streamlit App
-
+# Setup Environment
+```
+pipenv install
+pipenv run
+pipenv shell
+```
+# Run Streamlit App
+```
 streamlit run dashboard.py
+```
